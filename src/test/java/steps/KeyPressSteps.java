@@ -22,7 +22,6 @@ public class KeyPressSteps extends BaseUtil{
     }
 
     @After("@KeyPress")
-    // Runs after every test method in the class
     public void tearDown() {
         if (driver != null)
             driver.close();

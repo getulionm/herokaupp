@@ -11,7 +11,7 @@ public class BaseUtil {
 
     public static WebDriver driver; // Add public static to make it global
 
-    @BeforeTest // USed only for seleniumTests package
+    @BeforeTest // Used only for seleniumTests package
     public void setupTest() {
         System.setProperty("webdriver.gecko.driver", "./lib/geckodriver.exe");
         driver = new FirefoxDriver();

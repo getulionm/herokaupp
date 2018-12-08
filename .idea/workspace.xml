@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9c190682-5113-4cf8-8ce0-c8666e9b9169" name="Default Changelist" comment="" />
+    <list default="true" id="9c190682-5113-4cf8-8ce0-c8666e9b9169" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/CommonFunction/BaseUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/CommonFunction/BaseUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pages/Homepage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pages/Homepage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/seleniumTests/KeyPressPageTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/seleniumTests/KeyPressPageTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/steps/KeyPressSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/steps/KeyPressSteps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pages/Homepage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pages/Homepage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/seleniumTests/KeyPressPageTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/seleniumTests/KeyPressPageTests.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/steps/KeyPressSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/steps/KeyPressSteps.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,122 +33,105 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="feature" value="306" />
-          <entry key="java" value="1789" />
+          <entry key="java" value="2197" />
           <entry key="xml" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Cucumber" value="306" />
-          <entry key="JAVA" value="1789" />
+          <entry key="JAVA" value="2197" />
           <entry key="XML" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="class" value="10" />
-          <entry key="feature" value="4" />
+          <entry key="class" value="18" />
+          <entry key="dsfsdf" value="1" />
+          <entry key="feature" value="6" />
           <entry key="html" value="2" />
-          <entry key="java" value="75" />
+          <entry key="java" value="87" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="10" />
-          <entry key="Cucumber" value="4" />
+          <entry key="CLASS" value="18" />
+          <entry key="Cucumber" value="6" />
           <entry key="HTML" value="2" />
-          <entry key="JAVA" value="75" />
+          <entry key="JAVA" value="87" />
+          <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.50406504">
-      <split-first>
-        <leaf>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/pages/Homepage.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="442">
-                  <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
-                  <folding>
-                    <element signature="e#490#491#0" expanded="true" />
-                    <element signature="e#544#545#0" expanded="true" />
-                    <element signature="e#579#580#0" expanded="true" />
-                    <element signature="e#643#644#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/steps/KeyPressSteps.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="409">
-                  <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#481#482#0" expanded="true" />
-                    <element signature="e#515#516#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/steps/TestRunner.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="238">
-                  <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/test/java/features/herokaupp.feature">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="170">
-                  <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTests/KeyPressPageTests.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="646">
-                  <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/main/java/CommonFunction/BaseUtil.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="221">
-                  <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                    <element signature="e#1071#1072#0" expanded="true" />
-                    <element signature="e#1101#1102#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTests/KeyPressPageTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+              <folding>
+                <element signature="e#546#554#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/features/herokaupp.feature">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/steps/TestRunner.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/CommonFunction/BaseUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#709#710#0" expanded="true" />
+                <element signature="e#739#740#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/KeyPressesPage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pages/Homepage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -147,6 +139,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -166,20 +161,22 @@
         <option value="$PROJECT_DIR$/src/test/java/StepsDefinition/KeyPressSteps.java" />
         <option value="$PROJECT_DIR$/src/test/java/TestRunner.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/TestRunner.java" />
+        <option value="$PROJECT_DIR$/src/test/java/features/herokaupp.feature" />
         <option value="$PROJECT_DIR$/src/main/java/pages/Homepage.java" />
         <option value="$PROJECT_DIR$/src/main/java/CommonFunction/BaseUtil.java" />
         <option value="$PROJECT_DIR$/src/main/java/pages/KeyPressesPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/steps/KeyPressSteps.java" />
-        <option value="$PROJECT_DIR$/src/test/java/features/herokaupp.feature" />
         <option value="$PROJECT_DIR$/src/test/java/seleniumTests/KeyPressPageTests.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="484" />
-    <option name="width" value="1443" />
-    <option name="height" value="1047" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="517" />
+    <option name="y" value="68" />
+    <option name="width" value="1353" />
+    <option name="height" value="960" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -309,25 +306,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestRunner">
-    <configuration name="Feature: herokaupp" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/herokaupp.feature" />
-      <option name="GLUE" value="CommonFunction StepsDefinition" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="herokaupp" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: herokaupp" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.KeyPressPageTests.loopUsingStringList_Test">
     <configuration name="Scenario: Assert text and colour displayed" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/herokaupp.feature" />
@@ -355,7 +334,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KeyPressPageTests.aLoopCouldHandleThis_Test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="KeyPressPageTests.CHARS" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="herokaupp" />
       <extension name="coverage">
         <pattern>
@@ -363,9 +342,9 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="StepsExecution" />
+      <option name="PACKAGE_NAME" value="seleniumTests" />
       <option name="MAIN_CLASS_NAME" value="seleniumTests.KeyPressPageTests" />
-      <option name="METHOD_NAME" value="aLoopCouldHandleThis_Test" />
+      <option name="METHOD_NAME" value="CHARS" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -391,20 +370,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="KeyPressPageTests.loopUsingStringList_Test" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="herokaupp" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="seleniumTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="seleniumTests" />
+      <option name="MAIN_CLASS_NAME" value="seleniumTests.KeyPressPageTests" />
+      <option name="METHOD_NAME" value="loopUsingStringList_Test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Cucumber java.Feature: herokaupp" />
       <item itemvalue="JUnit.TestRunner" />
-      <item itemvalue="TestNG.KeyPressPageTests.aLoopCouldHandleThis_Test" />
       <item itemvalue="Cucumber java.Scenario: Assert text and colour displayed" />
       <item itemvalue="TestNG.KeyPressPageTests.loopUsingObjectList_Test" />
+      <item itemvalue="TestNG.KeyPressPageTests.loopUsingStringList_Test" />
+      <item itemvalue="TestNG.KeyPressPageTests.CHARS" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TestRunner" />
+        <item itemvalue="TestNG.KeyPressPageTests.loopUsingStringList_Test" />
         <item itemvalue="TestNG.KeyPressPageTests.loopUsingObjectList_Test" />
+        <item itemvalue="TestNG.KeyPressPageTests.CHARS" />
+        <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber java.Scenario: Assert text and colour displayed" />
-        <item itemvalue="Cucumber java.Feature: herokaupp" />
-        <item itemvalue="TestNG.KeyPressPageTests.aLoopCouldHandleThis_Test" />
       </list>
     </recent_temporary>
   </component>
@@ -422,35 +419,35 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TestRunner - 2018.12.08 at 15h 14m 19s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingStringList_Test - 2018.12.08 at 17h 01m 16s.xml">
+      <configuration name="KeyPressPageTests.loopUsingStringList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 17m 47s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 13m 49s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 19m 28s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 16m 02s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 19m 58s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 19m 11s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 20m 49s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 19m 53s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 21m 29s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 20m 53s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 23m 29s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 21m 10s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 24m 00s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 23m 53s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 28m 42s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingObjectList_Test - 2018.12.08 at 17h 24m 43s.xml">
+      <configuration name="KeyPressPageTests.loopUsingObjectList_Test" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="TestRunner - 2018.12.08 at 15h 30m 06s.xml">
-      <configuration name="TestRunner" configurationId="JUnit" />
+    <history-entry file="KeyPressPageTests_loopUsingStringList_Test - 2018.12.08 at 17h 26m 15s.xml">
+      <configuration name="KeyPressPageTests.loopUsingStringList_Test" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TodoView">
@@ -463,21 +460,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="517" y="68" width="1353" height="960" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Designer" />
       <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14765458" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17478731" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Terminal" weight="0.32925472" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32703003" />
+      <window_info anchor="bottom" id="Messages" weight="0.32627645" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32814237" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.48053393" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5566625" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3403782" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -556,13 +553,6 @@
     <entry file="file://$PROJECT_DIR$/target/cucumber-html-report/index.html">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/Keys.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="10" column="12" selection-start-line="10" selection-start-column="12" selection-end-line="10" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/WebElement.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -625,28 +615,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/TestRunner.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="53" selection-start-line="53" selection-end-line="53" />
-          <folding>
-            <element signature="e#1378#1379#0" expanded="true" />
-            <element signature="e#13617#13618#0" expanded="true" />
-            <element signature="e#13663#13664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/3.4.0/selenium-remote-driver-3.4.0.jar!/org/openqa/selenium/net/UrlChecker.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -657,67 +625,103 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Homepage.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.14.3/testng-6.14.3.jar!/org/testng/Assert.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="30" lean-forward="true" selection-start-line="30" selection-end-line="30" />
+        <state relative-caret-position="147">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
           <folding>
-            <element signature="e#490#491#0" expanded="true" />
-            <element signature="e#544#545#0" expanded="true" />
-            <element signature="e#579#580#0" expanded="true" />
-            <element signature="e#643#644#0" expanded="true" />
+            <element signature="e#1378#1379#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="543" column="6" selection-start-line="543" selection-start-column="6" selection-end-line="543" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/KeyPressSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/features/herokaupp.feature">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/steps/KeyPressSteps.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="409">
-          <caret line="26" column="27" lean-forward="true" selection-start-line="26" selection-start-column="27" selection-end-line="26" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="221">
+          <caret line="13" column="9" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pages/KeyPressesPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        <state relative-caret-position="153">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_172/src.zip!/java/lang/Object.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-168">
+          <caret line="234" column="18" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
           <folding>
-            <element signature="e#388#389#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#10065#10066#0" expanded="true" />
+            <element signature="e#10148#10149#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CommonFunction/BaseUtil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="54" selection-start-line="13" selection-start-column="54" selection-end-line="13" selection-end-column="54" />
+        <state relative-caret-position="153">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="9" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1071#1072#0" expanded="true" />
-            <element signature="e#1101#1102#0" expanded="true" />
+            <element signature="e#709#710#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/dsfsdf">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/3.14.0/selenium-api-3.14.0.jar!/org/openqa/selenium/Keys.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pages/Homepage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/steps/TestRunner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/seleniumTests/KeyPressPageTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="38" column="43" lean-forward="true" selection-start-line="38" selection-start-column="43" selection-end-line="38" selection-end-column="43" />
+        <state relative-caret-position="432">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="e#546#554#0" expanded="true" />
           </folding>
         </state>
       </provider>

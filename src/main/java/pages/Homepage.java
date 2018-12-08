@@ -7,7 +7,6 @@ import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 // http://the-internet.herokuapp.com/
-// Homepage homepagePage = PageFactory.initElements(driver, Homepage.class);
 
 public class Homepage extends BaseUtil {
 

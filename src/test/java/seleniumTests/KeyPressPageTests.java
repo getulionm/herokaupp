@@ -3,6 +3,7 @@ package seleniumTests;
 import CommonFunction.BaseUtil;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.support.PageFactory;
+import org.testng.Assert;
 import org.testng.annotations.Test;
 import pages.Homepage;
 import pages.KeyPressesPage;
@@ -18,9 +19,11 @@ public class KeyPressPageTests extends BaseUtil {
 
         List<Object> objectKeys = new ArrayList<Object>(); // Keys can be edited here:
         objectKeys.add(Keys.HOME);
-        objectKeys.add(Keys.BACK_SPACE);
+        objectKeys.add(Keys.LEFT_ALT);
         objectKeys.add(Keys.ARROW_UP);
-        objectKeys.add(Keys.ALT);
+        objectKeys.add(Keys.TAB);
+
+        String[] expectedObjectText = new String[]{"HOME", "ALT", "UP", "TAB"}; // Keys will be asserted when compared to:
 
         Homepage homepagePage = PageFactory.initElements(driver, Homepage.class);
         homepagePage.keyPresses.click();
@@ -28,10 +31,9 @@ public class KeyPressPageTests extends BaseUtil {
         KeyPressesPage KeyPressesPage_Obj = PageFactory.initElements(driver, KeyPressesPage.class);
         for (int i=0; i <= 3; i++) {
             KeyPressesPage_Obj.body.sendKeys((CharSequence) objectKeys.get(i));
-            String textResult = KeyPressesPage_Obj.result.getText();
-            System.out.println(textResult);
-            String textColour = KeyPressesPage_Obj.result.getAttribute("style");
-            System.out.println(textColour);
+            Assert.assertEquals(KeyPressesPage_Obj.result.getText(), "You entered: "+expectedObjectText[i]);
+            Assert.assertEquals(KeyPressesPage_Obj.result.getAttribute("style"), "color: green;");
+
         }
     }
 
@@ -45,10 +47,8 @@ public class KeyPressPageTests extends BaseUtil {
         KeyPressesPage KeyPressesPage_Obj = PageFactory.initElements(driver, KeyPressesPage.class);
         for (int i=0; i <= 3; i++) {
         KeyPressesPage_Obj.body.sendKeys(keysToTest[i]);
-            String textResult = KeyPressesPage_Obj.result.getText();
-            System.out.println(textResult);
-            String textColour = KeyPressesPage_Obj.result.getAttribute("style");
-            System.out.println(textColour);
+            Assert.assertEquals(KeyPressesPage_Obj.result.getText(), "You entered: "+keysToTest[i]);
+            Assert.assertEquals(KeyPressesPage_Obj.result.getAttribute("style"), "color: green;");
         }
     }
 }
