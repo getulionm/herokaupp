@@ -23,7 +23,8 @@ public class KeyPressPageTests extends BaseUtil {
         objectKeys.add(Keys.ARROW_UP);
         objectKeys.add(Keys.TAB);
 
-        String[] expectedObjectText = new String[]{"HOME", "ALT", "UP", "TAB"}; // Keys will be asserted when compared to:
+        // Keys will be asserted with elements in the list:
+        String[] expectedObjectText = new String[]{"HOME", "ALT", "UP", "TAB"};
 
         Homepage homepagePage = PageFactory.initElements(driver, Homepage.class);
         homepagePage.keyPresses.click();
@@ -33,7 +34,6 @@ public class KeyPressPageTests extends BaseUtil {
             KeyPressesPage_Obj.body.sendKeys((CharSequence) objectKeys.get(i));
             Assert.assertEquals(KeyPressesPage_Obj.result.getText(), "You entered: "+expectedObjectText[i]);
             Assert.assertEquals(KeyPressesPage_Obj.result.getAttribute("style"), "color: green;");
-
         }
     }
 
@@ -51,4 +51,5 @@ public class KeyPressPageTests extends BaseUtil {
             Assert.assertEquals(KeyPressesPage_Obj.result.getAttribute("style"), "color: green;");
         }
     }
+
 }

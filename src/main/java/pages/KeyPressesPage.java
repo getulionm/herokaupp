@@ -8,7 +8,6 @@ import org.openqa.selenium.support.PageFactory;
 import org.testng.Assert;
 
 public class KeyPressesPage extends BaseUtil {
-//    public final String PAGE_TITLE = "The Internet";
 
     public KeyPressesPage(WebDriver driver) {
         PageFactory.initElements(BaseUtil.driver,this);

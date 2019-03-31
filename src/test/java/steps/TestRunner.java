@@ -7,8 +7,8 @@ import org.junit.runner.RunWith;
 
 @RunWith(Cucumber.class)
 @CucumberOptions(
-        features = "src/test/java/features/herokaupp.feature"
-//        ,glue = {"steps"}
+        features = "C:\\Users\\Ge\\Desktop\\Java Projects\\herokaupp\\src\\test\\java\\features"
+//        ,glue = {"KeyPressSteps", "FileUploadSteps"}
         )
 
 
